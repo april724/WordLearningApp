@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🐻小英熊學堂🐻</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🐻 小英熊學堂 🐻</h1>
+        <p id="dynamic-welcome">🎯歡迎來到英語的奇妙世界！</p>
+    </header>
+
+    <!-- 激勵語 -->
+    <div class="motivation" id="motivation-box">
+        <!-- 激勵語由 JavaScript 動態生成 -->
+    </div>
+
+    <!-- 單字森林 -->
+    <div class="module-section learning-section">
+        <h2 class="module-header">🌲 單字森林 🌲</h2>
+        <img src="https://via.placeholder.com/150/FFEB3B/6D4C41?text=Forest" alt="單字森林插圖" class="illustration">
+        <button class="button learn" onclick="window.location.href='word_learning.html'">探索單字</button>
+    </div>
+
+    <!-- 語句創建工坊 -->
+    <div class="module-section testing-section">
+        <h2 class="module-header">🛠️ 語句創建工坊 🛠️</h2>
+        <img src="https://via.placeholder.com/150/81D4FA/FFFFFF?text=Workshop" alt="語句創建工坊插圖" class="illustration">
+        <button class="button test" onclick="window.location.href='sentence_building.html'">創建句型</button>
+    </div>
+
+    <script>
+        // 定義激勵語句
+        const motivationMessages = [
+            "🌟 小騎士們，加油！每一次努力都會讓你變得更厲害！✨",
+            "💪 準備好一起挑戰英語小冒險嗎？每一步都是進步的開始！🐾",
+            "🎯 完成每一關，成為英語小英雄吧！你一定可以的！🏆",
+            "🚀 英語挑戰啟動！今天的目標是解鎖三顆星星！🌈",
+            "✨ 學習是一場奇妙的旅程，小騎士們，加油哦！🌟",
+            "🐻 小英熊喊你來挑戰啦！快來一起打開知識寶藏吧！",
+            "🌟 每學會一個新單字，你就多了一顆智慧的星星！",
+            "🏰 挑戰英語城堡！每解開一個句型，城門就會打開哦！",
+            "🧙 英語魔法學校開課啦！每學一個句型，你就多一個魔法咒語！",
+            "🎮 歡迎進入英語遊戲！每答對一題，就能升級到下一關哦！"
+        ];
+
+        // 根據時間段生成不同的歡迎語
+        const hours = new Date().getHours();
+        const dynamicWelcomeElement = document.getElementById("dynamic-welcome");
+
+        if (hours < 12) {
+            dynamicWelcomeElement.textContent = "☀️ 早安！今天是學英語的美好一天！準備好挑戰了嗎？";
+        } else if (hours < 18) {
+            dynamicWelcomeElement.textContent = "🌞 下午好！一起用英語點亮智慧的星星吧！";
+        } else {
+            dynamicWelcomeElement.textContent = "🌙 晚上好！睡前學一點英語，夢裡也會變更棒哦！";
+        }
+
+        // 隨機顯示激勵語
+        function getRandomMotivation() {
+            const randomIndex = Math.floor(Math.random() * motivationMessages.length);
+            return motivationMessages[randomIndex];
+        }
+
+        // 在頁面加載時顯示激勵語
+        document.getElementById("motivation-box").textContent = getRandomMotivation();
+    </script>
+</body>
+</html>

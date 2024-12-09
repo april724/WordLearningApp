@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🐻 小英熊學堂 🐻</title>
+    <link rel="stylesheet" href="style copy.css">
+</head>
+<body>
+    <!-- 玩家資訊欄 -->
+    <div class="info-bar">
+        <h2>🏆玩家資訊🏆</h2>
+        <h2>Player Information</h2>
+        <p id="player-level">等級：初登場的新手騎士</p>
+        <p id="motivation"></p>
+        <p id="stars">💰 金幣數量：0</p>
+        <p id="tools">🎒 擁有元件：無</p>
+    </div>
+
+    <!-- 主內容區域 -->
+    <div class="main-content">
+        <h1>🐻 小英熊學堂 🐻</h1>
+        <p id="greeting"></p>
+        <p></p>
+
+        <!-- 模式切換按鈕 -->
+        <div class="mode-toggle">
+            <button class="button" onclick="switchMode('study')">單字新星練武場</button>
+            <button class="button" onclick="switchMode('game')">挑戰字母森林</button>
+        </div>
+
+        <!-- 單字學習模式 -->
+        <div id="study-area" class="section visible">
+            <div class="study-area">
+                <div class="study-emoji" id="study-emoji">🍎</div>
+                <div class="study-word" id="study-word">
+                    Apple 
+                    <a id="audio-link" href="#" onclick="playAudio()">🔊</a>
+                </div>
+                <p id="study-chinese">中文：蘋果</p>
+                <p id="study-pos">詞性：名詞</p>
+                <p id="study-pronunciation">發音：/ˈæp.l̩/</p>
+                <p id="study-example">例句：I eat an apple every day.</p>
+                <button class="button" onclick="nextWord()">下一個單字🆎</button>
+                <button class="button" onclick="previousWord()">上一個單字🔠</button>
+
+            </div>
+        </div>
+
+        <!-- 拼字挑戰模式 -->
+        <div id="game-area" class="section">
+            <div class="challenge-area">
+                <div class="challenge-emoji" id="emoji">🍎</div>
+                <div class="challenge-word" id="challenge-chinese">中文：蘋果</div>
+                <div class="letters" id="letters"></div>
+                <div class="chosen-letters" id="chosen-letters"></div>
+                <button class="button" onclick="removeLastLetter()">❌ 撤回選擇</button>
+                <button class="button" id="submit" onclick="submitAnswer()">🌟 確認答案</button>
+                <div id="result"></div>
+                <button class="button" id="restart" onclick="restartGame()">下一題</button>
+            </div>
+        </div>
+
+        <!-- 元件商店 -->
+        <div class="shop-area">
+            <h2>元件商店</h2>
+            <p>攻擊武器</p>
+            <button class="button shop-button" onclick="redeemItem('🗡️ 匕首', 1)">🗡️ 匕首 (1💰)</button>
+            <button class="button shop-button" onclick="redeemItem('🪓斧頭', 1)">🪓斧頭 (1💰)</button>
+            <button class="button shop-button" onclick="redeemItem('🔪 刀', 2)">🔪 刀 (2💰)</button>
+            <button class="button shop-button" onclick="redeemItem('⚔️ 交叉劍', 4)">⚔️ 交叉劍(4💰)</button>
+            <button class="button shop-button" onclick="redeemItem('🏹弓箭', 4)">🏹弓箭 (4💰)</button>
+            <button class="button shop-button" onclick="redeemItem('🪄 魔杖', 5)">🪄 魔杖 (5💰)</button>
+            <p>防禦裝備</p>
+            <button class="button shop-button" onclick="redeemItem('🛡️ 盾牌', 2)">🛡️ 盾牌 (2💰)</button>
+            <button class="button shop-button" onclick="redeemItem('🪖 軍用頭盔', 3)">🪖 軍用頭盔 (3💰)</button>
+        </div>
+    </div>
+
+    <script>
+        let playerStars = 0;
+        let playerTools = [];
+        let words = [];
+        let currentStudyIndex = 0;
+        let currentWordIndex = 0;
+        let selectedLetters = [];
+
+        async function loadWords() {
+            try {
+                const response = await fetch("words.json");
+                const data = await response.json();
+                words = data.words;
+                showWordStudy(currentStudyIndex);
+            } catch (error) {
+                console.error("無法加載題目：", error);
+            }
+        }
+
+        function switchMode(mode) {
+            document.getElementById("study-area").classList.remove("visible");
+            document.getElementById("game-area").classList.remove("visible");
+            if (mode === "study") {
+                document.getElementById("study-area").classList.add("visible");
+                showWordStudy(currentStudyIndex);
+            } else if (mode === "game") {
+                document.getElementById("game-area").classList.add("visible");
+                startGame();
+            }
+        }
+
+        function showWordStudy(index) {
+            const word = words[index];
+            document.getElementById("study-emoji").textContent = word.emoji;
+            document.getElementById("study-word").innerHTML = `
+                ${word.word} 
+                <a id="audio-link" href="#" onclick="playAudio('${word.Audio_File}')">🔊</a>
+            `;
+            document.getElementById("study-chinese").textContent = `㊥${word.meaning}`;
+            document.getElementById("study-pos").textContent = `詞性：${word.part_of_speech}`;
+            document.getElementById("study-pronunciation").textContent = `發音：${word.pronunciation}`;
+            document.getElementById("study-example").textContent = `例句：${word.example}`;
+        }
+
+        function playAudio(audioFile) {
+            const audio = new Audio(audioFile);
+            audio.play();
+        }
+
+        function nextWord() {
+            currentStudyIndex = (currentStudyIndex + 1) % words.length;
+            showWordStudy(currentStudyIndex);
+        }
+
+        function previousWord() {
+        // 如果是第一個單字，循環到最後一個
+            currentStudyIndex = (currentStudyIndex - 1 + words.length) % words.length;
+            showWordStudy(currentStudyIndex);
+        }
+
+
+        function startGame() {
+            const word = words[currentWordIndex];
+            document.getElementById("emoji").textContent = word.emoji;
+            document.getElementById("challenge-chinese").textContent = `㊥${word.meaning}`;
+            document.getElementById("result").textContent = "";
+            selectedLetters = [];
+            document.getElementById("chosen-letters").innerHTML = "";
+            const shuffled = shuffle(word.word.split(""));
+            document.getElementById("letters").innerHTML = shuffled
+                .map((letter, index) => `<div class="letter" id="letter-${index}" onclick="selectLetter('${letter}', 'letter-${index}')">${letter}</div>`)
+                .join("");
+        }
+
+        function shuffle(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+
+        function selectLetter(letter, elementId) {
+            selectedLetters.push({ letter, elementId });
+            const element = document.getElementById(elementId);
+            element.style.pointerEvents = "none";
+            element.style.backgroundColor = "#4caf50";
+            document.getElementById("chosen-letters").innerHTML = selectedLetters
+                .map(({ letter }) => `<span class="chosen-letter">${letter}</span>`)
+                .join("");
+        }
+
+        function removeLastLetter() {
+            if (selectedLetters.length > 0) {
+                const last = selectedLetters.pop();
+                const element = document.getElementById(last.elementId);
+                element.style.pointerEvents = "auto";
+                element.style.backgroundColor = "#64b5f6";
+                document.getElementById("chosen-letters").innerHTML = selectedLetters
+                    .map(({ letter }) => `<span class="chosen-letter">${letter}</span>`)
+                    .join("");
+            }
+        }
+
+        function submitAnswer() {
+            const word = words[currentWordIndex];
+            const playerAnswer = selectedLetters.map(({ letter }) => letter).join("");
+            <!-- 獲得星星的程式碼 -->
+            if (playerAnswer === word.word) {
+                document.getElementById("result").innerHTML = "🎉 WOW！答對了！🌟";
+                playerStars++;
+            } else {
+                document.getElementById("result").innerHTML = "🌟 不要放棄，再試一次吧！🫶";
+            }
+
+            updatePlayerInfo();
+        }
+
+        function restartGame() {
+            currentWordIndex = (currentWordIndex + 1) % words.length;
+            startGame();
+        }
+
+        function updatePlayerInfo() {
+            document.getElementById("stars").textContent = `💰 金幣數量：${playerStars}`;
+            document.getElementById("tools").innerHTML = `🎒 擁有元件：${
+            playerTools.length > 0
+            ? playerTools.map(tool => `<span class="tool-item">${tool}</span>`).join("")
+            : "無"
+            }`;
+            const levels = ["新手冒險家", "資深戰士", "精英英雄", "無敵勇者"];
+            const levelIndex = Math.min(Math.floor(playerTools.length / 2), levels.length - 1);
+            document.getElementById("player-level").textContent = `等級：${levels[levelIndex]}`;
+        }
+        function redeemItem(item, cost) {
+            if (playerStars >= cost) {
+                playerStars -= cost;
+                playerTools.push(item);
+                updatePlayerInfo();
+                alert(`恭喜！你獲得了道具：${item}！`);
+            } else {
+                alert("金幣數量不足，無法兌換！");
+            }
+        }
+
+        loadWords();
+        generateGreeting();
+        generateMotivation();
+        updatePlayerInfo();
+    
+        function generateGreeting() {
+            const now = new Date();
+            const hour = now.getHours();
+            let greeting = '';
+            if (hour < 12) {
+                greeting = '🌞 早安，小勇士！今天準備好迎接挑戰了嗎？';
+            } else if (hour < 18) {
+                greeting = '🌟 午安！持續努力，小騎士們！進步就在前方！';
+            } else {
+                greeting = '🌜 晚安！小英熊學堂陪你學習到最後一刻！';
+            }
+            document.getElementById('greeting').textContent = greeting;
+        }
+
+        function generateMotivation() {
+            const motivations = [
+                '💪 "小騎士們，加油！每一次努力都讓你更接近成功！"',
+                '🌟 "完成今天的小挑戰，英語星星等著你來解鎖哦！"',
+                '🛡️ "學英語的小勇士，拿起智慧之盾，迎接挑戰吧！"',
+                '🚀 "只要努力一步一步，英語的冒險之門就會打開！"',
+                '🌈 "挑戰越多，進步越大！今天的你比昨天更棒！"',
+                '🐾 "每學會一個新單字，就是為英語之旅增加了一個小夥伴！"',
+                '🎉 "歡迎來到英語派對！準備好一起玩學英語了嗎？"',
+                '🍎 "學一點英語，收穫滿滿果實！今天的成果是什麼呢？"',
+                '📚 "小英熊說：多學一個句型，冒險地圖就多一塊！加油吧！"',
+                '🐻 "英語學堂裡，最努力的小熊一定會獲得大大的成長！"',
+                '✨ "每天學一點，進步多一點！你是最棒的英語小達人！"',
+                '🏆 "今天學會的知識，就是明天成功的秘訣！"',
+                '🌟 "只要不怕挑戰，小騎士總能登上英語的高峰！"',
+                '🌞 "你的努力是陽光，英語世界因你而明亮！"',
+                '🎯 "勇敢挑戰吧，每一次錯誤都會帶來新的進步！"',
+                '🌌 "學英語像星空探險，努力才能找到最亮的星星！"',
+                '🔑 "掌握英語就是掌握世界的鑰匙，讓我們一起努力吧！"',
+                '🏰 "挑戰英語任務，贏得屬於你的智慧寶藏！"',
+                '🚤 "駕駛知識的小船，勇敢探索英語的無邊大海！"',
+                '🌺 "讓我們一起在英語花園裡，種下知識的種子吧！"'
+            ];
+            const randomMotivation = motivations[Math.floor(Math.random() * motivations.length)];
+            document.getElementById('motivation').textContent = randomMotivation;
+        }
+
+    </script>
+</body>
+</html>

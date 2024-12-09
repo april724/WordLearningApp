@@ -1,0 +1,103 @@
+body {
+    font-family: "Comic Sans MS", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9fbe7;
+}
+
+header {
+    background-color: #FFC107;
+    color: #8D6E63;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 5px solid #FFA000;
+}
+
+header h1 {
+    font-size: 40px;
+    margin: 0;
+    font-weight: bold;
+}
+
+header p {
+    font-size: 20px;
+    margin: 5px 0 0;
+}
+
+.motivation {
+    margin: 20px auto;
+    font-size: 20px;
+    color: #555;
+    padding: 20px;
+    background-color: #FFF9C4;
+    border-left: 5px solid #FF5722;
+    border-radius: 8px;
+    max-width: 90%;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.module-section {
+    padding: 40px 20px;
+    border-radius: 15px;
+    margin: 20px auto;
+    max-width: 90%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.learning-section {
+    background: linear-gradient(to right, #FFEB3B, #FF9800);
+    color: #6D4C41;
+}
+
+.testing-section {
+    background: linear-gradient(to right, #81D4FA, #0288D1);
+    color: #FFFFFF;
+}
+
+.module-header {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.button:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.button.learn {
+    background-color: #FF6F00;
+}
+
+.button.learn:hover {
+    background-color: #FF8F00;
+}
+
+.button.test {
+    background-color: #0277BD;
+}
+
+.button.test:hover {
+    background-color: #039BE5;
+}
+
+.illustration {
+    max-width: 100%;
+    margin: 10px auto;
+    display: block;
+}
