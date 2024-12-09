@@ -6,7 +6,7 @@
         "meaning": "我",
         "part_of_speech": "pronoun",
         "pronunciation": "/aɪ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\i.mp3",
+        "Audio_File": "audio_files/1_I.mp3",
         "audio_icon": "🔊",
         "example": "I am a student."
       },
@@ -16,7 +16,7 @@
         "meaning": "你",
         "part_of_speech": "pronoun",
         "pronunciation": "/juː/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\you.mp3",
+        "Audio_File": "audio_files/2_you.mp3",
         "audio_icon": "🔊",
         "example": "You are my friend."
       },
