@@ -566,7 +566,7 @@
         "meaning": "難過",
         "part_of_speech": "adjective",
         "pronunciation": "/sæd/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\sad.mp3",
+        "Audio_File": "audio_files\\57_sad.mp3",
         "audio_icon": "🔊",
         "example": "He felt sad after the movie."
       },
@@ -576,7 +576,7 @@
         "meaning": "太陽",
         "part_of_speech": "noun",
         "pronunciation": "/sʌn/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\sun.mp3",
+        "Audio_File": "audio_files\\58_sun.mp3",
         "audio_icon": "🔊",
         "example": "The sun is shining brightly."
       },
@@ -586,7 +586,7 @@
         "meaning": "月亮",
         "part_of_speech": "noun",
         "pronunciation": "/muːn/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\moon.mp3",
+        "Audio_File": "audio_files\\59_moon.mp3",
         "audio_icon": "🔊",
         "example": "The moon looks beautiful tonight."
       },
@@ -596,7 +596,7 @@
         "meaning": "星星",
         "part_of_speech": "noun",
         "pronunciation": "/stɑːr/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\star.mp3",
+        "Audio_File": "audio_files\\60_star.mp3",
         "audio_icon": "🔊",
         "example": "I see many stars in the sky."
       },
@@ -606,7 +606,7 @@
         "meaning": "樹",
         "part_of_speech": "noun",
         "pronunciation": "/triː/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\tree.mp3",
+        "Audio_File": "udio_files\\61_tree.mp3",
         "audio_icon": "🔊",
         "example": "A big tree is in front of my house."
       },
@@ -616,7 +616,7 @@
         "meaning": "花",
         "part_of_speech": "noun",
         "pronunciation": "/ˈflaʊər/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\flower.mp3",
+        "Audio_File": "audio_files\\62_flower.mp3",
         "audio_icon": "🔊",
         "example": "She gave me a beautiful flower."
       },
@@ -626,7 +626,7 @@
         "meaning": "走路",
         "part_of_speech": "verb",
         "pronunciation": "/wɔːk/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\walk.mp3",
+        "Audio_File": "audio_files\\63_walk.mp3",
         "audio_icon": "🔊",
         "example": "I walk to school every morning."
       },
@@ -636,7 +636,7 @@
         "meaning": "說話",
         "part_of_speech": "verb",
         "pronunciation": "/tɔːk/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\talk.mp3",
+        "Audio_File": "audio_files\\64_talk.mp3",
         "audio_icon": "🔊",
         "example": "We like to talk about books."
       },
@@ -646,7 +646,7 @@
         "meaning": "游泳",
         "part_of_speech": "verb",
         "pronunciation": "/swɪm/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\swim.mp3",
+        "Audio_File": "audio_files\\65_swim.mp3",
         "audio_icon": "🔊",
         "example": "I swim in the pool every weekend."
       },
@@ -656,7 +656,7 @@
         "meaning": "睡覺",
         "part_of_speech": "verb",
         "pronunciation": "/sliːp/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\sleep.mp3",
+        "Audio_File": "audio_files\\66_sleep.mp3",
         "audio_icon": "🔊",
         "example": "He likes to sleep early."
       },
@@ -666,7 +666,7 @@
         "meaning": "閱讀",
         "part_of_speech": "verb",
         "pronunciation": "/riːd/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\read.mp3",
+        "Audio_File": "audio_files\\67_read.mp3",
         "audio_icon": "🔊",
         "example": "I read a book before bed."
       },
@@ -676,7 +676,7 @@
         "meaning": "我",
         "part_of_speech": "pronoun",
         "pronunciation": "/aɪ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\i.mp3",
+        "Audio_File": "audio_files\\68_I.mp3",
         "audio_icon": "🔊",
         "example": "I am a student."
       },
@@ -686,7 +686,7 @@
         "meaning": "你",
         "part_of_speech": "pronoun",
         "pronunciation": "/juː/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\you.mp3",
+        "Audio_File": "audio_files\\69_you.mp3",
         "audio_icon": "🔊",
         "example": "You are my friend."
       },
@@ -696,7 +696,7 @@
         "meaning": "他",
         "part_of_speech": "pronoun",
         "pronunciation": "/hiː/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\he.mp3",
+        "Audio_File": "audio_files\\70_he.mp3",
         "audio_icon": "🔊",
         "example": "He is very tall."
       },
@@ -706,7 +706,7 @@
         "meaning": "她",
         "part_of_speech": "pronoun",
         "pronunciation": "/ʃiː/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\she.mp3",
+        "Audio_File": "audio_files\\71_she.mp3",
         "audio_icon": "🔊",
         "example": "She likes apples."
       },
@@ -716,7 +716,7 @@
         "meaning": "它",
         "part_of_speech": "pronoun",
         "pronunciation": "/ɪt/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\it.mp3",
+        "Audio_File": "audio_files\\72_it.mp3",
         "audio_icon": "🔊",
         "example": "It is a sunny day."
       },
@@ -726,7 +726,7 @@
         "meaning": "我們",
         "part_of_speech": "pronoun",
         "pronunciation": "/wiː/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\we.mp3",
+        "Audio_File": "audio_files\\73_we.mp3",
         "audio_icon": "🔊",
         "example": "We are happy."
       },
@@ -736,7 +736,7 @@
         "meaning": "他們",
         "part_of_speech": "pronoun",
         "pronunciation": "/ðeɪ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\they.mp3",
+        "Audio_File": "audio_files\\74_they.mp3",
         "audio_icon": "🔊",
         "example": "They are playing soccer."
       },
@@ -746,7 +746,7 @@
         "meaning": "你好",
         "part_of_speech": "interjection",
         "pronunciation": "/həˈloʊ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\hello.mp3",
+        "Audio_File": "audio_files\\75_hello.mp3",
         "audio_icon": "🔊",
         "example": "Hello! How are you?"
       },
@@ -756,7 +756,7 @@
         "meaning": "嗨",
         "part_of_speech": "interjection",
         "pronunciation": "/haɪ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\hi.mp3",
+        "Audio_File": "audio_files\\76_hi.mp3",
         "audio_icon": "🔊",
         "example": "Hi! Nice to meet you."
       },
@@ -766,7 +766,7 @@
         "meaning": "再見",
         "part_of_speech": "interjection",
         "pronunciation": "/ɡʊdˈbaɪ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\goodbye.mp3",
+        "Audio_File": "audio_files\\77_goodbye.mp3",
         "audio_icon": "🔊",
         "example": "Goodbye! See you tomorrow."
       },
@@ -776,7 +776,7 @@
         "meaning": "早安",
         "part_of_speech": "interjection",
         "pronunciation": "/ɡʊd ˈmɔːrnɪŋ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\good_morning.mp3",
+        "Audio_File": "audio_files\\78_good_morning.mp3",
         "audio_icon": "🔊",
         "example": "Good morning! Did you sleep well?"
       },
@@ -786,7 +786,7 @@
         "meaning": "晚安",
         "part_of_speech": "interjection",
         "pronunciation": "/ɡʊd ˈnaɪt/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\good_night.mp3",
+        "Audio_File": "audio_files\\79_good_night.mp3",
         "audio_icon": "🔊",
         "example": "Good night! See you tomorrow."
       },
@@ -796,7 +796,7 @@
         "meaning": "一",
         "part_of_speech": "noun",
         "pronunciation": "/wʌn/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\one.mp3",
+        "Audio_File": "audio_files\\80_one.mp3",
         "audio_icon": "🔊",
         "example": "I have one book."
       },
@@ -806,7 +806,7 @@
         "meaning": "二",
         "part_of_speech": "noun",
         "pronunciation": "/tuː/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\two.mp3",
+        "Audio_File": "audio_files\\81_two.mp3",
         "audio_icon": "🔊",
         "example": "She has two cats."
       },
@@ -816,7 +816,7 @@
         "meaning": "三",
         "part_of_speech": "noun",
         "pronunciation": "/θriː/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\three.mp3",
+        "Audio_File": "audio_files\\82_three.mp3",
         "audio_icon": "🔊",
         "example": "We need three chairs."
       },
@@ -826,7 +826,7 @@
         "meaning": "四",
         "part_of_speech": "noun",
         "pronunciation": "/fɔːr/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\four.mp3",
+        "Audio_File": "audio_files\\83_four.mp3",
         "audio_icon": "🔊",
         "example": "There are four apples."
       },
@@ -836,7 +836,7 @@
         "meaning": "五",
         "part_of_speech": "noun",
         "pronunciation": "/faɪv/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\five.mp3",
+        "Audio_File": "audio_files\\84_five.mp3",
         "audio_icon": "🔊",
         "example": "I can see five stars."
       },
@@ -846,7 +846,7 @@
         "meaning": "紅色",
         "part_of_speech": "adjective",
         "pronunciation": "/red/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\red.mp3",
+        "Audio_File": "audio_files\\85_red.mp3",
         "audio_icon": "🔊",
         "example": "The apple is red."
       },
@@ -856,7 +856,7 @@
         "meaning": "藍色",
         "part_of_speech": "adjective",
         "pronunciation": "/bluː/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\blue.mp3",
+        "Audio_File": "audio_files\\86_blue.mp3",
         "audio_icon": "🔊",
         "example": "The sky is blue."
       },
@@ -866,7 +866,7 @@
         "meaning": "黃色",
         "part_of_speech": "adjective",
         "pronunciation": "/ˈjɛloʊ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\yellow.mp3",
+        "Audio_File": "audio_files\\87_yellow.mp3",
         "audio_icon": "🔊",
         "example": "The sun is yellow."
       },
@@ -876,7 +876,7 @@
         "meaning": "綠色",
         "part_of_speech": "adjective",
         "pronunciation": "/ɡriːn/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\green.mp3",
+        "Audio_File": "audio_files\\88_green.mp3",
         "audio_icon": "🔊",
         "example": "The grass is green."
       },
@@ -886,7 +886,7 @@
         "meaning": "黑色",
         "part_of_speech": "adjective",
         "pronunciation": "/blæk/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\black.mp3",
+        "Audio_File": "audio_files\\89_black.mp3",
         "audio_icon": "🔊",
         "example": "My bag is black."
       },
@@ -896,7 +896,7 @@
         "meaning": "媽媽",
         "part_of_speech": "noun",
         "pronunciation": "/mɑːm/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\mom.mp3",
+        "Audio_File": "audio_files\\90_mom.mp3",
         "audio_icon": "🔊",
         "example": "My mom is very kind."
       },
@@ -906,7 +906,7 @@
         "meaning": "爸爸",
         "part_of_speech": "noun",
         "pronunciation": "/dæd/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\dad.mp3",
+        "Audio_File": "audio_files\\91_dad.mp3",
         "audio_icon": "🔊",
         "example": "My dad works hard."
       },
@@ -916,7 +916,7 @@
         "meaning": "兄弟",
         "part_of_speech": "noun",
         "pronunciation": "/ˈbrʌðər/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\brother.mp3",
+        "Audio_File": "audio_files\\92_brother.mp3",
         "audio_icon": "🔊",
         "example": "My brother is playing games."
       },
@@ -926,7 +926,7 @@
         "meaning": "姐妹",
         "part_of_speech": "noun",
         "pronunciation": "/ˈsɪstər/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\sister.mp3",
+        "Audio_File": "audio_files\\93_sister.mp3",
         "audio_icon": "🔊",
         "example": "My sister loves music."
       },
@@ -936,7 +936,7 @@
         "meaning": "貓",
         "part_of_speech": "noun",
         "pronunciation": "/kæt/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\cat.mp3",
+        "Audio_File": "audio_files\\94_cat.mp3",
         "audio_icon": "🔊",
         "example": "The cat is sleeping."
       },
@@ -946,7 +946,7 @@
         "meaning": "狗",
         "part_of_speech": "noun",
         "pronunciation": "/dɔːɡ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\dog.mp3",
+        "Audio_File": "audio_files\\95_dog.mp3",
         "audio_icon": "🔊",
         "example": "The dog is barking."
       },
@@ -956,7 +956,7 @@
         "meaning": "鳥",
         "part_of_speech": "noun",
         "pronunciation": "/bɜːrd/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\bird.mp3",
+        "Audio_File": "audio_files\\96_bird.mp3",
         "audio_icon": "🔊",
         "example": "A bird is flying in the sky."
       },
@@ -966,7 +966,7 @@
         "meaning": "魚",
         "part_of_speech": "noun",
         "pronunciation": "/fɪʃ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\fish.mp3",
+        "Audio_File": "audio_files\\97_fish.mp3",
         "audio_icon": "🔊",
         "example": "I see a fish in the water."
       },
@@ -976,7 +976,7 @@
         "meaning": "書",
         "part_of_speech": "noun",
         "pronunciation": "/bʊk/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\book.mp3",
+        "Audio_File": "audio_files\\98_book.mp3",
         "audio_icon": "🔊",
         "example": "I am reading a book."
       },
@@ -986,7 +986,7 @@
         "meaning": "包",
         "part_of_speech": "noun",
         "pronunciation": "/bæɡ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\bag.mp3",
+        "Audio_File": "audio_files\\99_bag.mp3",
         "audio_icon": "🔊",
         "example": "I put my books in the bag."
       },
@@ -996,7 +996,7 @@
         "meaning": "鉛筆",
         "part_of_speech": "noun",
         "pronunciation": "/ˈpensl/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\pencil.mp3",
+        "Audio_File": "audio_files\\100_pencil.mp3",
         "audio_icon": "🔊",
         "example": "I am writing with a pencil."
       },
@@ -1006,7 +1006,7 @@
         "meaning": "橡皮擦",
         "part_of_speech": "noun",
         "pronunciation": "/ɪˈreɪsər/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\eraser.mp3",
+        "Audio_File": "audio_files//101_eraser.mp3",
         "audio_icon": "🔊",
         "example": "I need an eraser to fix my mistake."
       },
@@ -1016,7 +1016,7 @@
         "meaning": "看",
         "part_of_speech": "verb",
         "pronunciation": "/siː/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\see.mp3",
+        "Audio_File": "audio_files//102_see.mp3",
         "audio_icon": "🔊",
         "example": "I can see the mountains."
       },
@@ -1026,7 +1026,7 @@
         "meaning": "吃",
         "part_of_speech": "verb",
         "pronunciation": "/iːt/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\eat.mp3",
+        "Audio_File": "audio_files//103_eat.mp3",
         "audio_icon": "🔊",
         "example": "I like to eat pizza."
       },
@@ -1036,7 +1036,7 @@
         "meaning": "跑",
         "part_of_speech": "verb",
         "pronunciation": "/rʌn/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\run.mp3",
+        "Audio_File": "audio_files//104_run.mp3",
         "audio_icon": "🔊",
         "example": "I run every morning."
       },
@@ -1046,7 +1046,7 @@
         "meaning": "跳",
         "part_of_speech": "verb",
         "pronunciation": "/dʒʌmp/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\jump.mp3",
+        "Audio_File": "audio_files//105_jump.mp3",
         "audio_icon": "🔊",
         "example": "She can jump very high."
       },
@@ -1056,7 +1056,7 @@
         "meaning": "玩",
         "part_of_speech": "verb",
         "pronunciation": "/pleɪ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\play.mp3",
+        "Audio_File": "audio_files//106_play.mp3",
         "audio_icon": "🔊",
         "example": "We play soccer in the park."
       },
@@ -1066,7 +1066,7 @@
         "meaning": "十一",
         "part_of_speech": "noun",
         "pronunciation": "/ɪˈlevən/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\eleven.mp3",
+        "Audio_File": "audio_files//107_eleven.mp3",
         "audio_icon": "🔊",
         "example": "I have eleven pencils."
       },
@@ -1076,7 +1076,7 @@
         "meaning": "十二",
         "part_of_speech": "noun",
         "pronunciation": "/twɛlv/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\twelve.mp3",
+        "Audio_File": "audio_files//108_twelve.mp3",
         "audio_icon": "🔊",
         "example": "There are twelve months in a year."
       },
@@ -1086,7 +1086,7 @@
         "meaning": "十三",
         "part_of_speech": "noun",
         "pronunciation": "/ˌθɜːrˈtiːn/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\thirteen.mp3",
+        "Audio_File": "audio_files//109_thirteen.mp3",
         "audio_icon": "🔊",
         "example": "She is thirteen years old."
       },
@@ -1096,7 +1096,7 @@
         "meaning": "二十",
         "part_of_speech": "noun",
         "pronunciation": "/ˈtwenti/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\twenty.mp3",
+        "Audio_File": "audio_files//110_twenty.mp3",
         "audio_icon": "🔊",
         "example": "I can count up to twenty."
       },
@@ -1106,7 +1106,7 @@
         "meaning": "頭",
         "part_of_speech": "noun",
         "pronunciation": "/hɛd/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\head.mp3",
+        "Audio_File": "audio_files//111_head.mp3",
         "audio_icon": "🔊",
         "example": "My head hurts."
       },
@@ -1116,7 +1116,7 @@
         "meaning": "臉",
         "part_of_speech": "noun",
         "pronunciation": "/feɪs/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\face.mp3",
+        "Audio_File": "audio_files//112_face.mp3",
         "audio_icon": "🔊",
         "example": "She has a beautiful face."
       },
@@ -1126,7 +1126,7 @@
         "meaning": "手",
         "part_of_speech": "noun",
         "pronunciation": "/hænd/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\hand.mp3",
+        "Audio_File": "audio_files//113_hand.mp3",
         "audio_icon": "🔊",
         "example": "Raise your hand if you know the answer."
       },
@@ -1136,7 +1136,7 @@
         "meaning": "腳",
         "part_of_speech": "noun",
         "pronunciation": "/fʊt/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\foot.mp3",
+        "Audio_File": "audio_files//114_foot.mp3",
         "audio_icon": "🔊",
         "example": "My foot is cold."
       },
@@ -1146,7 +1146,7 @@
         "meaning": "腿",
         "part_of_speech": "noun",
         "pronunciation": "/lɛɡ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\leg.mp3",
+        "Audio_File": "audio_files//115_leg.mp3",
         "audio_icon": "🔊",
         "example": "I hurt my leg while running."
       },
@@ -1156,7 +1156,7 @@
         "meaning": "晴天",
         "part_of_speech": "adjective",
         "pronunciation": "/ˈsʌni/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\sunny.mp3",
+        "Audio_File": "audio_files//116_sunny.mp3",
         "audio_icon": "🔊",
         "example": "It is sunny today."
       },
@@ -1166,7 +1166,7 @@
         "meaning": "雨天",
         "part_of_speech": "adjective",
         "pronunciation": "/ˈreɪni/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\rainy.mp3",
+        "Audio_File": "audio_files//117_rainy.mp3",
         "audio_icon": "🔊",
         "example": "It is a rainy afternoon."
       },
@@ -1176,7 +1176,7 @@
         "meaning": "有風的",
         "part_of_speech": "adjective",
         "pronunciation": "/ˈwɪndi/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\windy.mp3",
+        "Audio_File": "audio_files//118_windy.mp3",
         "audio_icon": "🔊",
         "example": "It’s very windy outside."
       },
@@ -1186,7 +1186,7 @@
         "meaning": "多雲的",
         "part_of_speech": "adjective",
         "pronunciation": "/ˈklaʊdi/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\cloudy.mp3",
+        "Audio_File": "audio_files//119_cloudy.mp3",
         "audio_icon": "🔊",
         "example": "The sky is cloudy."
       },
@@ -1196,7 +1196,7 @@
         "meaning": "早晨",
         "part_of_speech": "noun",
         "pronunciation": "/ˈmɔːrnɪŋ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\morning.mp3",
+        "Audio_File": "audio_files//120_morning.mp3",
         "audio_icon": "🔊",
         "example": "I exercise in the morning."
       },
@@ -1206,7 +1206,7 @@
         "meaning": "夜晚",
         "part_of_speech": "noun",
         "pronunciation": "/naɪt/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\night.mp3",
+        "Audio_File": "audio_files//121_night.mp3",
         "audio_icon": "🔊",
         "example": "I sleep at night."
       },
@@ -1216,7 +1216,7 @@
         "meaning": "白天",
         "part_of_speech": "noun",
         "pronunciation": "/deɪ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\day.mp3",
+        "Audio_File": "audio_files//122_day.mp3",
         "audio_icon": "🔊",
         "example": "It is a bright day."
       },
@@ -1226,7 +1226,7 @@
         "meaning": "總是",
         "part_of_speech": "adverb",
         "pronunciation": "/ˈɔːlweɪz/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\always.mp3",
+        "Audio_File": "audio_files//123_always.mp3",
         "audio_icon": "🔊",
         "example": "He always helps others."
       },
@@ -1236,7 +1236,7 @@
         "meaning": "有時",
         "part_of_speech": "adverb",
         "pronunciation": "/ˈsʌmtaɪmz/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\sometimes.mp3",
+        "Audio_File": "audio_files//124_sometimes.mp3",
         "audio_icon": "🔊",
         "example": "I sometimes go to the park."
       },
@@ -1246,7 +1246,7 @@
         "meaning": "從不",
         "part_of_speech": "adverb",
         "pronunciation": "/ˈnevər/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\never.mp3",
+        "Audio_File": "audio_files//125_never.mp3",
         "audio_icon": "🔊",
         "example": "He never eats fast food."
       },
@@ -1256,7 +1256,7 @@
         "meaning": "寫",
         "part_of_speech": "verb",
         "pronunciation": "/raɪt/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\write.mp3",
+        "Audio_File": "audio_files//126_write.mp3",
         "audio_icon": "🔊",
         "example": "I write a letter to my friend."
       },
@@ -1266,7 +1266,7 @@
         "meaning": "聽",
         "part_of_speech": "verb",
         "pronunciation": "/ˈlɪsn/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\listen.mp3",
+        "Audio_File": "audio_files//127_listen.mp3",
         "audio_icon": "🔊",
         "example": "She listens to music every day."
       },
@@ -1276,7 +1276,7 @@
         "meaning": "唱歌",
         "part_of_speech": "verb",
         "pronunciation": "/sɪŋ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\sing.mp3",
+        "Audio_File": "audio_files//128_sing.mp3",
         "audio_icon": "🔊",
         "example": "He loves to sing in the shower."
       },
@@ -1286,7 +1286,7 @@
         "meaning": "跳舞",
         "part_of_speech": "verb",
         "pronunciation": "/dæns/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\dance.mp3",
+        "Audio_File": "audio_files//129_dance.mp3",
         "audio_icon": "🔊",
         "example": "They dance at the party."
       },
@@ -1296,7 +1296,7 @@
         "meaning": "畫",
         "part_of_speech": "verb",
         "pronunciation": "/drɔː/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\draw.mp3",
+        "Audio_File": "audio_files//130_draw.mp3",
         "audio_icon": "🔊",
         "example": "I like to draw pictures of animals."
       },
@@ -1306,7 +1306,7 @@
         "meaning": "椅子",
         "part_of_speech": "noun",
         "pronunciation": "/tʃɛr/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\chair.mp3",
+        "Audio_File": "audio_files//131_chair.mp3",
         "audio_icon": "🔊",
         "example": "Please sit on the chair."
       },
@@ -1316,7 +1316,7 @@
         "meaning": "床",
         "part_of_speech": "noun",
         "pronunciation": "/bɛd/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\bed.mp3",
+        "Audio_File": "audio_files//132_bed.mp3",
         "audio_icon": "🔊",
         "example": "I sleep on a soft bed."
       },
@@ -1326,7 +1326,7 @@
         "meaning": "窗戶",
         "part_of_speech": "noun",
         "pronunciation": "/ˈwɪndoʊ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\window.mp3",
+        "Audio_File": "audio_files//133_window.mp3",
         "audio_icon": "🔊",
         "example": "Open the window for fresh air."
       },
@@ -1336,7 +1336,7 @@
         "meaning": "二十一",
         "part_of_speech": "noun",
         "pronunciation": "/ˈtwenti wʌn/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\twenty-one.mp3",
+        "Audio_File": "audio_files//134_twenty-one.mp3",
         "audio_icon": "🔊",
         "example": "He is twenty-one years old."
       },
@@ -1346,7 +1346,7 @@
         "meaning": "三十二",
         "part_of_speech": "noun",
         "pronunciation": "/ˈθɜːrti tuː/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\thirty-two.mp3",
+        "Audio_File": "audio_files//135_thirty-two.mp3",
         "audio_icon": "🔊",
         "example": "There are thirty-two students in the class."
       },
@@ -1356,7 +1356,7 @@
         "meaning": "四十三",
         "part_of_speech": "noun",
         "pronunciation": "/ˈfɔːrti θriː/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\forty-three.mp3",
+        "Audio_File": "audio_files//136_forty-three.mp3",
         "audio_icon": "🔊",
         "example": "The book has forty-three pages."
       },
@@ -1366,7 +1366,7 @@
         "meaning": "五十五",
         "part_of_speech": "noun",
         "pronunciation": "/ˈfɪfti faɪv/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\fifty-five.mp3",
+        "Audio_File": "audio_files//137_fifty-five.mp3",
         "audio_icon": "🔊",
         "example": "The temperature is fifty-five degrees."
       },
@@ -1376,7 +1376,7 @@
         "meaning": "一百",
         "part_of_speech": "noun",
         "pronunciation": "/wʌn ˈhʌndrəd/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\one_hundred.mp3",
+        "Audio_File": "audio_files//138_one hundred.mp3",
         "audio_icon": "🔊",
         "example": "He has one hundred dollars."
       },
@@ -1386,7 +1386,7 @@
         "meaning": "老師",
         "part_of_speech": "noun",
         "pronunciation": "/ˈtiːtʃər/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\teacher.mp3",
+        "Audio_File": "audio_files//139_teacher.mp3",
         "audio_icon": "🔊",
         "example": "The teacher is kind."
       },
@@ -1396,7 +1396,7 @@
         "meaning": "醫生",
         "part_of_speech": "noun",
         "pronunciation": "/ˈdɑːktər/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\doctor.mp3",
+        "Audio_File": "audio_files//140_doctor.mp3",
         "audio_icon": "🔊",
         "example": "The doctor is treating a patient."
       },
@@ -1406,7 +1406,7 @@
         "meaning": "護士",
         "part_of_speech": "noun",
         "pronunciation": "/nɜːrs/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\nurse.mp3",
+        "Audio_File": "audio_files//141_nurse.mp3",
         "audio_icon": "🔊",
         "example": "The nurse is helping the doctor."
       },
@@ -1416,7 +1416,7 @@
         "meaning": "農夫",
         "part_of_speech": "noun",
         "pronunciation": "/ˈfɑːrmər/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\farmer.mp3",
+        "Audio_File": "audio_files//142_farmer.mp3",
         "audio_icon": "🔊",
         "example": "The farmer grows vegetables."
       },
@@ -1426,7 +1426,7 @@
         "meaning": "警察",
         "part_of_speech": "noun",
         "pronunciation": "/pəˈliːs/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\police.mp3",
+        "Audio_File": "audio_files//143_police.mp3",
         "audio_icon": "🔊",
         "example": "The police officer keeps us safe."
       },
@@ -1436,7 +1436,7 @@
         "meaning": "汽車",
         "part_of_speech": "noun",
         "pronunciation": "/kɑːr/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\car.mp3",
+        "Audio_File": "audio_files//144_car.mp3",
         "audio_icon": "🔊",
         "example": "He drives a red car."
       },
@@ -1446,7 +1446,7 @@
         "meaning": "巴士",
         "part_of_speech": "noun",
         "pronunciation": "/bʌs/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\bus.mp3",
+        "Audio_File": "audio_files//145_bus.mp3",
         "audio_icon": "🔊",
         "example": "I go to school by bus."
       },
@@ -1456,7 +1456,7 @@
         "meaning": "自行車",
         "part_of_speech": "noun",
         "pronunciation": "/baɪk/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\bike.mp3",
+        "Audio_File": "audio_files//146_bike.mp3",
         "audio_icon": "🔊",
         "example": "She rides a bike to the park."
       },
@@ -1466,7 +1466,7 @@
         "meaning": "火車",
         "part_of_speech": "noun",
         "pronunciation": "/treɪn/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\train.mp3",
+        "Audio_File": "audio_files//147_train.mp3",
         "audio_icon": "🔊",
         "example": "We traveled by train."
       },
@@ -1476,7 +1476,7 @@
         "meaning": "飛機",
         "part_of_speech": "noun",
         "pronunciation": "/pleɪn/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\plane.mp3",
+        "Audio_File": "audio_files//148_plane.mp3",
         "audio_icon": "🔊",
         "example": "The plane is flying in the sky."
       },
@@ -1486,7 +1486,7 @@
         "meaning": "河流",
         "part_of_speech": "noun",
         "pronunciation": "/ˈrɪvər/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\river.mp3",
+        "Audio_File": "audio_files//149_river.mp3",
         "audio_icon": "🔊",
         "example": "The river flows through the city."
       },
@@ -1496,7 +1496,7 @@
         "meaning": "山",
         "part_of_speech": "noun",
         "pronunciation": "/ˈmaʊntən/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\mountain.mp3",
+        "Audio_File": "audio_files//150_mountain.mp3",
         "audio_icon": "🔊",
         "example": "The mountain is covered in snow."
       },
@@ -1506,7 +1506,7 @@
         "meaning": "米飯",
         "part_of_speech": "noun",
         "pronunciation": "/raɪs/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\rice.mp3",
+        "Audio_File": "audio_files//151_rice.mp3",
         "audio_icon": "🔊",
         "example": "We eat rice with curry."
       },
@@ -1516,7 +1516,7 @@
         "meaning": "湯",
         "part_of_speech": "noun",
         "pronunciation": "/suːp/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\soup.mp3",
+        "Audio_File": "audio_files//152_soup.mp3",
         "audio_icon": "🔊",
         "example": "The soup is hot and delicious."
       },
@@ -1526,7 +1526,7 @@
         "meaning": "青蛙",
         "part_of_speech": "noun",
         "pronunciation": "/frɒɡ/",
-        "Audio_File": "D:\\WordLearningApp\\audio_files\\frog.mp3",
+        "Audio_File": "audio_files//153_frog.mp3",
         "audio_icon": "🔊",
         "example": "The frog is jumping into the water."
       },
@@ -1536,7 +1536,7 @@
          "meaning": "螞蟻",
          "part_of_speech": "noun",
          "pronunciation": "/ænt/",
-         "Audio_File": "D:\\WordLearningApp\\audio_files\\ant.mp3",
+         "Audio_File": "audio_files//154_ant.mp3",
          "audio_icon": "🔊",
            "example": "The ant is carrying a leaf."
        },
@@ -1546,7 +1546,7 @@
               "meaning": "熊",
               "part_of_speech": "noun",
               "pronunciation": "/bɛr/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\bear.mp3",
+              "Audio_File": "audio_files//155_bear.mp3",
               "audio_icon": "🔊",
               "example": "The bear is big and strong."
             },
@@ -1556,7 +1556,7 @@
               "meaning": "豬",
               "part_of_speech": "noun",
               "pronunciation": "/pɪɡ/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\pig.mp3",
+              "Audio_File": "audio_files//156_pig.mp3",
               "audio_icon": "🔊",
               "example": "The pig lives on the farm."
             },
@@ -1566,7 +1566,7 @@
               "meaning": "牛",
               "part_of_speech": "noun",
               "pronunciation": "/kaʊ/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\cow.mp3",
+              "Audio_File": "audio_files//157_cow.mp3",
               "audio_icon": "🔊",
               "example": "The cow gives us milk."
             },
@@ -1576,7 +1576,7 @@
               "meaning": "老鼠",
               "part_of_speech": "noun",
               "pronunciation": "/maʊs/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\mouse.mp3",
+              "Audio_File": "audio_files//158_mouse.mp3",
               "audio_icon": "🔊",
               "example": "The mouse is small and quick."
             },
@@ -1586,7 +1586,7 @@
               "meaning": "鴨子",
               "part_of_speech": "noun",
               "pronunciation": "/dʌk/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\duck.mp3",
+              "Audio_File": "audio_files//159_duck.mp3",
               "audio_icon": "🔊",
               "example": "The duck is swimming in the pond."
             },
@@ -1596,7 +1596,7 @@
               "meaning": "馬",
               "part_of_speech": "noun",
               "pronunciation": "/hɔːrs/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\horse.mp3",
+              "Audio_File": "audio_files//160_horse.mp3",
               "audio_icon": "🔊",
               "example": "The horse runs fast."
             },
@@ -1606,7 +1606,7 @@
               "meaning": "兔子",
               "part_of_speech": "noun",
               "pronunciation": "/ˈræbɪt/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\rabbit.mp3",
+              "Audio_File": "audio_files//161_rabbit.mp3",
               "audio_icon": "🔊",
               "example": "The rabbit is eating carrots."
             },
@@ -1616,52 +1616,52 @@
               "meaning": "青蛙",
               "part_of_speech": "noun",
               "pronunciation": "/frɒɡ/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\frog.mp3",
+              "Audio_File": "audio_files//162_frog.mp3",
               "audio_icon": "🔊",
               "example": "The frog is jumping into the water."
             },
-            { "emoji": "🌸", "word": "beautiful", "meaning": "美麗的", "part_of_speech": "adjective", "pronunciation": "/ˈbjuːtɪfl/", "Audio_File": "D:\\WordLearningApp\\audio_files\\beautiful.mp3", "audio_icon": "🔊", "example": "The flower is beautiful." },
-            { "emoji": "💪", "word": "strong", "meaning": "強壯的", "part_of_speech": "adjective", "pronunciation": "/strɔːŋ/", "Audio_File": "D:\\WordLearningApp\\audio_files\\strong.mp3", "audio_icon": "🔊", "example": "He is very strong." },
-            { "emoji": "🤕", "word": "weak", "meaning": "虛弱的", "part_of_speech": "adjective", "pronunciation": "/wiːk/", "Audio_File": "D:\\WordLearningApp\\audio_files\\weak.mp3", "audio_icon": "🔊", "example": "She felt weak after the long walk." },
-            { "emoji": "🧠", "word": "smart", "meaning": "聰明的", "part_of_speech": "adjective", "pronunciation": "/smɑːrt/", "Audio_File": "D:\\WordLearningApp\\audio_files\\smart.mp3", "audio_icon": "🔊", "example": "He is a smart student." },
-            { "emoji": "📏", "word": "tall", "meaning": "高的", "part_of_speech": "adjective", "pronunciation": "/tɔːl/", "Audio_File": "D:\\WordLearningApp\\audio_files\\tall.mp3", "audio_icon": "🔊", "example": "The tree is very tall." },
-            { "emoji": "🐹", "word": "cute", "meaning": "可愛的", "part_of_speech": "adjective", "pronunciation": "/kjuːt/", "Audio_File": "D:\\WordLearningApp\\audio_files\\cute.mp3", "audio_icon": "🔊", "example": "The puppy is so cute." },
-            { "emoji": "🧹", "word": "clean", "meaning": "乾淨的", "part_of_speech": "adjective", "pronunciation": "/kliːn/", "Audio_File": "D:\\WordLearningApp\\audio_files\\clean.mp3", "audio_icon": "🔊", "example": "The kitchen is very clean." },
-            { "emoji": "🍳", "word": "cook", "meaning": "煮", "part_of_speech": "verb", "pronunciation": "/kʊk/", "Audio_File": "D:\\WordLearningApp\\audio_files\\cook.mp3", "audio_icon": "🔊", "example": "He cooks dinner every evening." },
-            { "emoji": "🧼", "word": "clean", "meaning": "清潔", "part_of_speech": "verb", "pronunciation": "/kliːn/", "Audio_File": "D:\\WordLearningApp\\audio_files\\clean.mp3", "audio_icon": "🔊", "example": "She cleaned the table after dinner." },
-            { "emoji": "🏗️", "word": "build", "meaning": "建造", "part_of_speech": "verb", "pronunciation": "/bɪld/", "Audio_File": "D:\\WordLearningApp\\audio_files\\build.mp3", "audio_icon": "🔊", "example": "They are building a house." },
-            { "emoji": "📦", "word": "carry", "meaning": "搬運", "part_of_speech": "verb", "pronunciation": "/ˈkæri/", "Audio_File": "D:\\WordLearningApp\\audio_files\\carry.mp3", "audio_icon": "🔊", "example": "He is carrying a heavy box." },
-            { "emoji": "🧗", "word": "climb", "meaning": "爬", "part_of_speech": "verb", "pronunciation": "/klaɪm/", "Audio_File": "D:\\WordLearningApp\\audio_files\\climb.mp3", "audio_icon": "🔊", "example": "The kids love to climb trees." },
-            { "emoji": "🚿", "word": "wash", "meaning": "洗", "part_of_speech": "verb", "pronunciation": "/wɒʃ/", "Audio_File": "D:\\WordLearningApp\\audio_files\\wash.mp3", "audio_icon": "🔊", "example": "She washes the dishes every day." },
-            { "emoji": "💧", "word": "drink", "meaning": "喝", "part_of_speech": "verb", "pronunciation": "/drɪŋk/", "Audio_File": "D:\\WordLearningApp\\audio_files\\drink.mp3", "audio_icon": "🔊", "example": "He drinks a glass of water." },
-            { "emoji": "🤒", "word": "sick", "meaning": "生病的", "part_of_speech": "adjective", "pronunciation": "/sɪk/", "Audio_File": "D:\\WordLearningApp\\audio_files\\sick.mp3", "audio_icon": "🔊", "example": "She is feeling sick today." },
-            { "emoji": "😴", "word": "tired", "meaning": "疲倦的", "part_of_speech": "adjective", "pronunciation": "/ˈtaɪərd/", "Audio_File": "D:\\WordLearningApp\\audio_files\\tired.mp3", "audio_icon": "🔊", "example": "He felt tired after the long walk." },
-            { "emoji": "💪", "word": "healthy", "meaning": "健康的", "part_of_speech": "adjective", "pronunciation": "/ˈhɛlθi/", "Audio_File": "D:\\WordLearningApp\\audio_files\\healthy.mp3", "audio_icon": "🔊", "example": "She stays healthy by exercising daily." },
-            { "emoji": "🏥", "word": "hospital", "meaning": "醫院", "part_of_speech": "noun", "pronunciation": "/ˈhɒspɪtl/", "Audio_File": "D:\\WordLearningApp\\audio_files\\hospital.mp3", "audio_icon": "🔊", "example": "The doctor works in a hospital." },
-            { "emoji": "👂", "word": "ear", "meaning": "耳朵", "part_of_speech": "noun", "pronunciation": "/ɪər/", "Audio_File": "D:\\WordLearningApp\\audio_files\\ear.mp3", "audio_icon": "🔊", "example": "My ear hurts when it's too loud." },
-            { "emoji": "👃", "word": "nose", "meaning": "鼻子", "part_of_speech": "noun", "pronunciation": "/noʊz/", "Audio_File": "D:\\WordLearningApp\\audio_files\\nose.mp3", "audio_icon": "🔊", "example": "He has a small nose." },
-            { "emoji": "💪", "word": "arm", "meaning": "手臂", "part_of_speech": "noun", "pronunciation": "/ɑːrm/", "Audio_File": "D:\\WordLearningApp\\audio_files\\arm.mp3", "audio_icon": "🔊", "example": "She broke her arm." },
-            { "emoji": "❤️", "word": "heart", "meaning": "心臟", "part_of_speech": "noun", "pronunciation": "/hɑːrt/", "Audio_File": "D:\\WordLearningApp\\audio_files\\heart.mp3", "audio_icon": "🔊", "example": "His heart is beating fast." },
-            { "emoji": "👄", "word": "mouth", "meaning": "嘴巴", "part_of_speech": "noun", "pronunciation": "/maʊθ/", "Audio_File": "D:\\WordLearningApp\\audio_files\\mouth.mp3", "audio_icon": "🔊", "example": "She opened her mouth to speak." },
-            { "emoji": "⚽", "word": "soccer", "meaning": "足球", "part_of_speech": "noun", "pronunciation": "/ˈsɒkər/", "Audio_File": "D:\\WordLearningApp\\audio_files\\soccer.mp3", "audio_icon": "🔊", "example": "He loves playing soccer." },
-            { "emoji": "🏀", "word": "basketball", "meaning": "籃球", "part_of_speech": "noun", "pronunciation": "/ˈbæskɪtbɔːl/", "Audio_File": "D:\\WordLearningApp\\audio_files\\basketball.mp3", "audio_icon": "🔊", "example": "We play basketball after school." },
-            { "emoji": "⚾", "word": "baseball", "meaning": "棒球", "part_of_speech": "noun", "pronunciation": "/ˈbeɪsbɔːl/", "Audio_File": "D:\\WordLearningApp\\audio_files\\baseball.mp3", "audio_icon": "🔊", "example": "He is good at baseball." },
-            { "emoji": "🏸", "word": "badminton", "meaning": "羽毛球", "part_of_speech": "noun", "pronunciation": "/ˈbædmɪntən/", "Audio_File": "D:\\WordLearningApp\\audio_files\\badminton.mp3", "audio_icon": "🔊", "example": "We played badminton in the park." },
-            { "emoji": "🏆", "word": "win", "meaning": "贏得", "part_of_speech": "verb", "pronunciation": "/wɪn/", "Audio_File": "D:\\WordLearningApp\\audio_files\\win.mp3", "audio_icon": "🔊", "example": "Our team won the game." },
-            { "emoji": "🗓️", "word": "yesterday", "meaning": "昨天", "part_of_speech": "noun", "pronunciation": "/ˈjɛstərdeɪ/", "Audio_File": "D:\\WordLearningApp\\audio_files\\yesterday.mp3", "audio_icon": "🔊", "example": "Yesterday was sunny." },
-            { "emoji": "☀️", "word": "today", "meaning": "今天", "part_of_speech": "noun", "pronunciation": "/təˈdeɪ/", "Audio_File": "D:\\WordLearningApp\\audio_files\\today.mp3", "audio_icon": "🔊", "example": "Today is sunny." },
-            { "emoji": "🌅", "word": "morning", "meaning": "早晨", "part_of_speech": "noun", "pronunciation": "/ˈmɔːrnɪŋ/", "Audio_File": "D:\\WordLearningApp\\audio_files\\morning.mp3", "audio_icon": "🔊", "example": "I exercise in the morning." },
-            { "emoji": "🇹🇼", "word": "Taiwan", "meaning": "台灣", "part_of_speech": "noun", "pronunciation": "/ˌtaɪˈwɑːn/", "Audio_File": "D:\\WordLearningApp\\audio_files\\taiwan.mp3", "audio_icon": "🔊", "example": "Taiwan is my home country." },
-            { "emoji": "🇺🇸", "word": "America", "meaning": "美國", "part_of_speech": "noun", "pronunciation": "/əˈmɛrɪkə/", "Audio_File": "D:\\WordLearningApp\\audio_files\\america.mp3", "audio_icon": "🔊", "example": "She visited America last summer." },
-            { "emoji": "🇯🇵", "word": "Japan", "meaning": "日本", "part_of_speech": "noun", "pronunciation": "/dʒəˈpæn/", "Audio_File": "D:\\WordLearningApp\\audio_files\\japan.mp3", "audio_icon": "🔊", "example": "Japan is famous for sushi." },
-            { "emoji": "🏙️", "word": "Taipei", "meaning": "台北", "part_of_speech": "noun", "pronunciation": "/ˌtaɪˈpeɪ/", "Audio_File": "D:\\WordLearningApp\\audio_files\\taipei.mp3", "audio_icon": "🔊", "example": "Taipei is the capital of Taiwan." },
+            { "emoji": "🌸", "word": "beautiful", "meaning": "美麗的", "part_of_speech": "adjective", "pronunciation": "/ˈbjuːtɪfl/", "Audio_File": "audio_files//163_beautiful.mp3", "audio_icon": "🔊", "example": "The flower is beautiful." },
+            { "emoji": "💪", "word": "strong", "meaning": "強壯的", "part_of_speech": "adjective", "pronunciation": "/strɔːŋ/", "Audio_File": "audio_files//164_strong.mp3", "audio_icon": "🔊", "example": "He is very strong." },
+            { "emoji": "🤕", "word": "weak", "meaning": "虛弱的", "part_of_speech": "adjective", "pronunciation": "/wiːk/", "Audio_File": "audio_files//165_weak.mp3", "audio_icon": "🔊", "example": "She felt weak after the long walk." },
+            { "emoji": "🧠", "word": "smart", "meaning": "聰明的", "part_of_speech": "adjective", "pronunciation": "/smɑːrt/", "Audio_File": "audio_files//166_smart.mp3", "audio_icon": "🔊", "example": "He is a smart student." },
+            { "emoji": "📏", "word": "tall", "meaning": "高的", "part_of_speech": "adjective", "pronunciation": "/tɔːl/", "Audio_File": "audio_files//167_tall.mp3", "audio_icon": "🔊", "example": "The tree is very tall." },
+            { "emoji": "🐹", "word": "cute", "meaning": "可愛的", "part_of_speech": "adjective", "pronunciation": "/kjuːt/", "Audio_File": "audio_files//168_cute.mp3", "audio_icon": "🔊", "example": "The puppy is so cute." },
+            { "emoji": "🧹", "word": "clean", "meaning": "乾淨的", "part_of_speech": "adjective", "pronunciation": "/kliːn/", "Audio_File": "audio_files//169_clean.mp3", "audio_icon": "🔊", "example": "The kitchen is very clean." },
+            { "emoji": "🍳", "word": "cook", "meaning": "煮", "part_of_speech": "verb", "pronunciation": "/kʊk/", "Audio_File": "audio_files//170_cook.mp3", "audio_icon": "🔊", "example": "He cooks dinner every evening." },
+            { "emoji": "🧼", "word": "clean", "meaning": "清潔", "part_of_speech": "verb", "pronunciation": "/kliːn/", "Audio_File": "audio_files//171_clean.mp3", "audio_icon": "🔊", "example": "She cleaned the table after dinner." },
+            { "emoji": "🏗️", "word": "build", "meaning": "建造", "part_of_speech": "verb", "pronunciation": "/bɪld/", "Audio_File": "audio_files//172_build.mp3", "audio_icon": "🔊", "example": "They are building a house." },
+            { "emoji": "📦", "word": "carry", "meaning": "搬運", "part_of_speech": "verb", "pronunciation": "/ˈkæri/", "Audio_File": "audio_files//173_carry.mp3", "audio_icon": "🔊", "example": "He is carrying a heavy box." },
+            { "emoji": "🧗", "word": "climb", "meaning": "爬", "part_of_speech": "verb", "pronunciation": "/klaɪm/", "Audio_File": "audio_files//174_climb.mp3", "audio_icon": "🔊", "example": "The kids love to climb trees." },
+            { "emoji": "🚿", "word": "wash", "meaning": "洗", "part_of_speech": "verb", "pronunciation": "/wɒʃ/", "Audio_File": "audio_files//175_wash.mp3", "audio_icon": "🔊", "example": "She washes the dishes every day." },
+            { "emoji": "💧", "word": "drink", "meaning": "喝", "part_of_speech": "verb", "pronunciation": "/drɪŋk/", "Audio_File": "audio_files//176_drink.mp3", "audio_icon": "🔊", "example": "He drinks a glass of water." },
+            { "emoji": "🤒", "word": "sick", "meaning": "生病的", "part_of_speech": "adjective", "pronunciation": "/sɪk/", "Audio_File": "audio_files//177_sick.mp3", "audio_icon": "🔊", "example": "She is feeling sick today." },
+            { "emoji": "😴", "word": "tired", "meaning": "疲倦的", "part_of_speech": "adjective", "pronunciation": "/ˈtaɪərd/", "Audio_File": "audio_files//178_tired.mp3", "audio_icon": "🔊", "example": "He felt tired after the long walk." },
+            { "emoji": "💪", "word": "healthy", "meaning": "健康的", "part_of_speech": "adjective", "pronunciation": "/ˈhɛlθi/", "Audio_File": "audio_files//179_healthy.mp3", "audio_icon": "🔊", "example": "She stays healthy by exercising daily." },
+            { "emoji": "🏥", "word": "hospital", "meaning": "醫院", "part_of_speech": "noun", "pronunciation": "/ˈhɒspɪtl/", "Audio_File": "audio_files//180_hospital.mp3", "audio_icon": "🔊", "example": "The doctor works in a hospital." },
+            { "emoji": "👂", "word": "ear", "meaning": "耳朵", "part_of_speech": "noun", "pronunciation": "/ɪər/", "Audio_File": "audio_files//181_ear.mp3", "audio_icon": "🔊", "example": "My ear hurts when it's too loud." },
+            { "emoji": "👃", "word": "nose", "meaning": "鼻子", "part_of_speech": "noun", "pronunciation": "/noʊz/", "Audio_File": "audio_files//182_nose.mp3", "audio_icon": "🔊", "example": "He has a small nose." },
+            { "emoji": "💪", "word": "arm", "meaning": "手臂", "part_of_speech": "noun", "pronunciation": "/ɑːrm/", "Audio_File": "audio_files//183_arm.mp3", "audio_icon": "🔊", "example": "She broke her arm." },
+            { "emoji": "❤️", "word": "heart", "meaning": "心臟", "part_of_speech": "noun", "pronunciation": "/hɑːrt/", "Audio_File": "audio_files//184_heart.mp3", "audio_icon": "🔊", "example": "His heart is beating fast." },
+            { "emoji": "👄", "word": "mouth", "meaning": "嘴巴", "part_of_speech": "noun", "pronunciation": "/maʊθ/", "Audio_File": "audio_files//185_mouth.mp3", "audio_icon": "🔊", "example": "She opened her mouth to speak." },
+            { "emoji": "⚽", "word": "soccer", "meaning": "足球", "part_of_speech": "noun", "pronunciation": "/ˈsɒkər/", "Audio_File": "audio_files//186_soccer.mp3", "audio_icon": "🔊", "example": "He loves playing soccer." },
+            { "emoji": "🏀", "word": "basketball", "meaning": "籃球", "part_of_speech": "noun", "pronunciation": "/ˈbæskɪtbɔːl/", "Audio_File": "audio_files//187_basketball.mp3", "audio_icon": "🔊", "example": "We play basketball after school." },
+            { "emoji": "⚾", "word": "baseball", "meaning": "棒球", "part_of_speech": "noun", "pronunciation": "/ˈbeɪsbɔːl/", "Audio_File": "audio_files//188_baseball.mp3", "audio_icon": "🔊", "example": "He is good at baseball." },
+            { "emoji": "🏸", "word": "badminton", "meaning": "羽毛球", "part_of_speech": "noun", "pronunciation": "/ˈbædmɪntən/", "Audio_File": "audio_files//189_badminton.mp3", "audio_icon": "🔊", "example": "We played badminton in the park." },
+            { "emoji": "🏆", "word": "win", "meaning": "贏得", "part_of_speech": "verb", "pronunciation": "/wɪn/", "Audio_File": "audio_files//190_win.mp3", "audio_icon": "🔊", "example": "Our team won the game." },
+            { "emoji": "🗓️", "word": "yesterday", "meaning": "昨天", "part_of_speech": "noun", "pronunciation": "/ˈjɛstərdeɪ/", "Audio_File": "audio_files//191_yesterday.mp3", "audio_icon": "🔊", "example": "Yesterday was sunny." },
+            { "emoji": "☀️", "word": "today", "meaning": "今天", "part_of_speech": "noun", "pronunciation": "/təˈdeɪ/", "Audio_File": "audio_files//192_today.mp3", "audio_icon": "🔊", "example": "Today is sunny." },
+            { "emoji": "🌅", "word": "morning", "meaning": "早晨", "part_of_speech": "noun", "pronunciation": "/ˈmɔːrnɪŋ/", "Audio_File": "audio_files//193_morning.mp3", "audio_icon": "🔊", "example": "I exercise in the morning." },
+            { "emoji": "🇹🇼", "word": "Taiwan", "meaning": "台灣", "part_of_speech": "noun", "pronunciation": "/ˌtaɪˈwɑːn/", "Audio_File": "audio_files//194_Taiwan.mp3", "audio_icon": "🔊", "example": "Taiwan is my home country." },
+            { "emoji": "🇺🇸", "word": "America", "meaning": "美國", "part_of_speech": "noun", "pronunciation": "/əˈmɛrɪkə/", "Audio_File": "audio_files//195_America.mp3", "audio_icon": "🔊", "example": "She visited America last summer." },
+            { "emoji": "🇯🇵", "word": "Japan", "meaning": "日本", "part_of_speech": "noun", "pronunciation": "/dʒəˈpæn/", "Audio_File": "audio_files//196_Japan.mp3", "audio_icon": "🔊", "example": "Japan is famous for sushi." },
+            { "emoji": "🏙️", "word": "Taipei", "meaning": "台北", "part_of_speech": "noun", "pronunciation": "/ˌtaɪˈpeɪ/", "Audio_File": "audio_files//197_Taipei.mp3", "audio_icon": "🔊", "example": "Taipei is the capital of Taiwan." },
             {
               "emoji": "⭐",
               "word": "important",
               "meaning": "重要的",
               "part_of_speech": "adjective",
               "pronunciation": "/ɪmˈpɔːrtnt/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\important.mp3",
+              "Audio_File": "audio_files//198_important.mp3",
               "audio_icon": "🔊",
               "example": "It is important to study every day."
             },
@@ -1671,7 +1671,7 @@
               "meaning": "有趣的",
               "part_of_speech": "adjective",
               "pronunciation": "/ˈɪntrəstɪŋ/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\interesting.mp3",
+              "Audio_File": "audio_files//199_interesting.mp3",
               "audio_icon": "🔊",
               "example": "This book is very interesting."
             },
@@ -1681,7 +1681,7 @@
               "meaning": "困難的",
               "part_of_speech": "adjective",
               "pronunciation": "/ˈdɪfɪkəlt/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\difficult.mp3",
+              "Audio_File": "audio_files//200_difficult.mp3",
               "audio_icon": "🔊",
               "example": "The math test was difficult."
             },
@@ -1691,7 +1691,7 @@
               "meaning": "簡單的",
               "part_of_speech": "adjective",
               "pronunciation": "/ˈiːzi/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\easy.mp3",
+              "Audio_File": "audio_files//201_easy.mp3",
               "audio_icon": "🔊",
               "example": "The homework was easy."
             },
@@ -1701,7 +1701,7 @@
               "meaning": "學習",
               "part_of_speech": "verb",
               "pronunciation": "/ˈstʌdi/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\study.mp3",
+              "Audio_File": "audio_files//202_study.mp3",
               "audio_icon": "🔊",
               "example": "She studies English every day."
             },
@@ -1711,7 +1711,7 @@
               "meaning": "練習",
               "part_of_speech": "verb",
               "pronunciation": "/ˈpræktɪs/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\practice.mp3",
+              "Audio_File": "audio_files//203_practice.mp3",
               "audio_icon": "🔊",
               "example": "You need to practice the piano."
             },
@@ -1721,7 +1721,7 @@
               "meaning": "享受",
               "part_of_speech": "verb",
               "pronunciation": "/ɪnˈdʒɔɪ/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\enjoy.mp3",
+              "Audio_File": "audio_files//204_enjoy.mp3",
               "audio_icon": "🔊",
               "example": "I enjoy reading books."
             },
@@ -1731,7 +1731,7 @@
               "meaning": "完成",
               "part_of_speech": "verb",
               "pronunciation": "/ˈfɪnɪʃ/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\finish.mp3",
+              "Audio_File": "audio_files//205_finish.mp33",
               "audio_icon": "🔊",
               "example": "He finished his homework."
             },
@@ -1741,7 +1741,7 @@
               "meaning": "準備",
               "part_of_speech": "verb",
               "pronunciation": "/prɪˈpeər/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\prepare.mp3",
+              "Audio_File": "audio_files//206_prepare.mp3",
               "audio_icon": "🔊",
               "example": "She is preparing for the test."
             },
@@ -1751,7 +1751,7 @@
               "meaning": "點擊",
               "part_of_speech": "verb",
               "pronunciation": "/klɪk/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\click.mp3",
+              "Audio_File": "audio_files//207_click.mp3",
               "audio_icon": "🔊",
               "example": "Click on the link to open the page."
             },
@@ -1761,7 +1761,7 @@
               "meaning": "下載",
               "part_of_speech": "verb",
               "pronunciation": "/ˈdaʊnloʊd/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\download.mp3",
+              "Audio_File": "audio_files//208_download.mp3",
               "audio_icon": "🔊",
               "example": "He downloaded a new app."
             },
@@ -1771,7 +1771,7 @@
               "meaning": "聽",
               "part_of_speech": "verb",
               "pronunciation": "/ˈlɪsn/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\listen.mp3",
+              "Audio_File": "audio_files//209_listen.mp3",
               "audio_icon": "🔊",
               "example": "She listens to music every night."
             },
@@ -1781,7 +1781,7 @@
               "meaning": "電腦",
               "part_of_speech": "noun",
               "pronunciation": "/kəmˈpjuːtər/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\computer.mp3",
+              "Audio_File": "audio_files//210_computer.mp3",
               "audio_icon": "🔊",
               "example": "I use a computer for work."
             },
@@ -1791,7 +1791,7 @@
               "meaning": "手機",
               "part_of_speech": "noun",
               "pronunciation": "/foʊn/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\phone.mp3",
+              "Audio_File": "audio_files//211_phone.mp3",
               "audio_icon": "🔊",
               "example": "My phone is new."
             },
@@ -1801,7 +1801,7 @@
               "meaning": "網際網路",
               "part_of_speech": "noun",
               "pronunciation": "/ˈɪntərnɛt/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\internet.mp3",
+              "Audio_File": "audio_files//212_internet.mp3",
               "audio_icon": "🔊",
               "example": "The internet is very fast here."
             },
@@ -1811,7 +1811,7 @@
               "meaning": "相機",
               "part_of_speech": "noun",
               "pronunciation": "/ˈkæmrə/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\camera.mp3",
+              "Audio_File": "audio_files//213_camera.mp3",
               "audio_icon": "🔊",
               "example": "I bought a new camera."
             },
@@ -1821,7 +1821,7 @@
               "meaning": "機器人",
               "part_of_speech": "noun",
               "pronunciation": "/ˈroʊbɒt/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\robot.mp3",
+              "Audio_File": "audio_files//214_robot.mp3",
               "audio_icon": "🔊",
               "example": "The robot can talk."
             },
@@ -1831,7 +1831,7 @@
               "meaning": "平板電腦",
               "part_of_speech": "noun",
               "pronunciation": "/ˈtæblɪt/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\tablet.mp3",
+              "Audio_File": "audio_files//215_tablet.mp3",
               "audio_icon": "🔊",
               "example": "I use a tablet for school."
             },
@@ -1841,7 +1841,7 @@
               "meaning": "螢幕",
               "part_of_speech": "noun",
               "pronunciation": "/skriːn/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\screen.mp3",
+              "Audio_File": "audio_files//216_screen.mp3",
               "audio_icon": "🔊",
               "example": "The screen is very bright."
             },
@@ -1851,7 +1851,7 @@
               "meaning": "行星",
               "part_of_speech": "noun",
               "pronunciation": "/ˈplænɪt/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\planet.mp3",
+              "Audio_File": "audio_files//217_planet.mp3",
               "audio_icon": "🔊",
               "example": "Earth is a planet."
             },
@@ -1861,7 +1861,7 @@
               "meaning": "環境",
               "part_of_speech": "noun",
               "pronunciation": "/ɪnˈvaɪrənmənt/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\environment.mp3",
+              "Audio_File": "audio_files//218_environment.mp3",
               "audio_icon": "🔊",
               "example": "We should protect the environment."
             },
@@ -1871,7 +1871,7 @@
               "meaning": "天氣",
               "part_of_speech": "noun",
               "pronunciation": "/ˈwɛðər/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\weather.mp3",
+              "Audio_File": "audio_files//219_weather.mp3",
               "audio_icon": "🔊",
               "example": "The weather is sunny today."
             },
@@ -1881,7 +1881,7 @@
               "meaning": "節慶",
               "part_of_speech": "noun",
               "pronunciation": "/ˈfɛstɪvəl/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\festival.mp3",
+              "Audio_File": "audio_files//220_festival.mp3",
               "audio_icon": "🔊",
               "example": "The festival is full of fun."
             },
@@ -1891,7 +1891,7 @@
               "meaning": "飛機",
               "part_of_speech": "noun",
               "pronunciation": "/ˈɛərpleɪn/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\airplane.mp3",
+              "Audio_File": "audio_files//221_airplane.mp3",
               "audio_icon": "🔊",
               "example": "I traveled by airplane."
             },
@@ -1901,7 +1901,7 @@
               "meaning": "護照",
               "part_of_speech": "noun",
               "pronunciation": "/ˈpæspɔːrt/",
-              "Audio_File": "D:\\WordLearningApp\\audio_files\\passport.mp3",
+              "Audio_File": "audio_files//222_passport.mp3",
               "audio_icon": "🔊",
               "example": "You need a passport to travel abroad."
             }
