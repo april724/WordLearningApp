@@ -15,8 +15,21 @@
         <p id="motivation"></p>
         <p id="stars">💰 金幣數量：0</p>
         <p id="tools">🎒 擁有元件：無</p>
+     
+                        <!-- 怪物區塊 -->
+                        <div class="monster-area">
+                            <h3>👾 怪物來襲！</h3>
+                            <div id="monster-display">
+                                <span id="monster-emoji">🐉</span>
+                                <progress id="monster-hp-bar" value="100" max="100"></progress>
+                            </div>
+                            <h4>選擇武器攻擊：</h4>
+                            <div id="weapon-buttons"></div>
+                            <!--<button class="button attack-button" onclick="attackMonster()">攻擊</button>-->
+                            </div>
     </div>
-
+    
+    
     <!-- 主內容區域 -->
     <div class="main-content">
         <h1>🐻 小英熊學堂 🐻</h1>
@@ -73,8 +86,7 @@
             <button class="button shop-button" onclick="redeemItem('🪄 魔杖', 5)">🪄 魔杖 (5💰)</button>
             <p>防禦裝備</p>
             <button class="button shop-button" onclick="redeemItem('🛡️ 盾牌', 2)">🛡️ 盾牌 (2💰)</button>
-            <button class="button shop-button" onclick="redeemItem('🪖 軍用頭盔', 3)">🪖 軍用頭盔 (3💰)</button>
-        </div>
+            <button class="button shop-button" onclick="redeemItem('🪖 軍用頭盔', 3)">🪖 軍用頭盔 (3💰)</button>    
     </div>
 
     <script>
@@ -267,6 +279,132 @@
             const randomMotivation = motivations[Math.floor(Math.random() * motivations.length)];
             document.getElementById('motivation').textContent = randomMotivation;
         }
+        // 更新元件顯示邏輯
+        function updateToolDisplay() {
+            const toolContainer = document.getElementById("tools");
+            const weaponButtonsContainer = document.getElementById("weapon-buttons");
+
+        // 更新元件文字列表
+        toolContainer.innerHTML = `🎒 擁有元件：${
+            playerTools.length > 0
+            ? playerTools.map((tool) => `<span class="tool-item">${tool}</span>`).join("")
+            : "無"
+        }`;
+
+        // 動態生成武器按鈕
+        weaponButtonsContainer.innerHTML = playerTools
+        .map(
+            (tool, index) =>
+                `<button class="button weapon-button" onclick="attackMonster('${tool}', ${index})">${tool}</button>`
+        )
+        .join("");
+        }
+
+        // 元件兌換
+        function redeemItem(item, cost) {
+    if (playerStars >= cost) {
+        playerStars -= cost;
+        playerTools.push(item);
+        updatePlayerInfo();
+        updateToolDisplay();
+        alert(`恭喜！你獲得了道具：${item}！`);
+    } else {
+        alert("金幣數量不足，無法兌換！");
+    }
+}
+
+// 怪物相關數據
+// let monsterHP = 100;
+
+let monster = {
+    level: 1,
+    hp: 100,
+    maxHp: 100,
+    emoji: "🐉",
+    attackPower: 10,
+};
+
+    // 怪物攻擊函數
+    function attackMonster(tool, index) {
+    if (!tool) {
+        alert("請選擇武器進行攻擊！");
+        return;
+    }
+
+    const damage = calculateDamage(tool); // 計算武器的傷害
+    monsterHP -= damage; // 減少怪物血量
+
+    if (monster.hp > 0) {
+        monster.hp -= 10; // 假設攻擊造成 10 點傷害
+        if (monster.hp <= 0) {
+            alert("🎉 你打敗了怪物！");
+            levelUpMonster(); // 打敗後怪物升級
+        }
+    } else {
+        alert("怪物已經被打敗，正在升級中...");
+    }
+    updateMonsterDisplay();
+
+    // 更新怪物屬性顯示
+function updateMonsterDisplay() {
+    document.getElementById("monster-emoji").textContent = monster.emoji;
+    document.getElementById("monster-hp-bar").value = monster.hp;
+    document.getElementById("monster-hp-bar").max = monster.maxHp;
+}
+
+// 怪物升級邏輯
+function levelUpMonster() {
+    monster.level++;
+    monster.maxHp += 50; // 每升級增加最大血量
+    monster.hp = monster.maxHp; // 恢復血量
+    monster.attackPower += 5; // 提高攻擊力
+
+    // 更新怪物外觀（根據等級變化）
+    if (monster.level === 2) {
+        monster.emoji = "🦖";
+    } else if (monster.level === 3) {
+        monster.emoji = "🐲";
+    } else if (monster.level >= 4) {
+        monster.emoji = "👹";
+    }
+
+    updateMonsterDisplay();
+}
+
+    // 更新怪物血量顯示
+    if (monsterHP <= 0) {
+        alert(`🎉 你使用 ${tool} 打敗了怪物！`);
+        resetMonster();
+    } else {
+        alert(`你用 ${tool} 攻擊怪物，造成了 ${damage} 點傷害！`);
+        document.getElementById("monster-hp-bar").value = monsterHP;
+    }
+
+    // 移除使用的武器
+    playerTools.splice(index, 1);
+    updateToolDisplay();
+}
+
+// 計算武器傷害
+function calculateDamage(tool) {
+    const toolDamage = {
+        "🗡️ 匕首": 10,
+        "🪓斧頭": 15,
+        "🔪 刀": 20,
+        "⚔️ 交叉劍": 30,
+        "🏹弓箭": 25,
+        "🪄 魔杖": 35,
+    };
+    return toolDamage[tool] || 5; // 如果無對應傷害，預設為 5 點
+}
+
+// 重置怪物
+function resetMonster() {
+    monsterHP = 100;
+    document.getElementById("monster-hp-bar").value = monsterHP;
+    document.getElementById("monster-emoji").textContent = "🐉";
+}
+
 
     </script>
 </body>
