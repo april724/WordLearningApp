@@ -19,6 +19,9 @@ h1 {
 }
 
 .info-bar {
+    width: 40%;
+    max-width: 250px; /* 限制最大宽度 */
+    min-width: 100px; /* 限制最小宽度 */
     background-color: #f3e5f5;
     padding: 20px;
     border-radius: 10px;
